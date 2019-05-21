@@ -1,7 +1,8 @@
 using System;
 
 namespace CSharpExercises{
-    public class DataTypeExercises{
+    public class DataTypeExercises
+    {
         public void ValueSum(){
             Console.WriteLine("Ingrese un valor a sumar:");
             var firstValue =  Console.ReadLine();
