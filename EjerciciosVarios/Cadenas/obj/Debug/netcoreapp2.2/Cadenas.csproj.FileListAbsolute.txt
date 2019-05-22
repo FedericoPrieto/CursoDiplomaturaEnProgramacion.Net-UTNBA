@@ -1,0 +1,11 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.2\Cadenas.deps.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.2\Cadenas.runtimeconfig.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.2\Cadenas.runtimeconfig.dev.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.2\Cadenas.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.2\Cadenas.pdb
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.2\Cadenas.csprojAssemblyReference.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.2\Cadenas.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.2\Cadenas.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.2\Cadenas.AssemblyInfo.cs
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.2\Cadenas.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.2\Cadenas.pdb

@@ -1,0 +1,11 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\bin\Debug\netcoreapp2.0\Pruebas.deps.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\bin\Debug\netcoreapp2.0\Pruebas.runtimeconfig.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\bin\Debug\netcoreapp2.0\Pruebas.runtimeconfig.dev.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\bin\Debug\netcoreapp2.0\Pruebas.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\bin\Debug\netcoreapp2.0\Pruebas.pdb
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\obj\Debug\netcoreapp2.0\Pruebas.csprojAssemblyReference.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\obj\Debug\netcoreapp2.0\Pruebas.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\obj\Debug\netcoreapp2.0\Pruebas.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\obj\Debug\netcoreapp2.0\Pruebas.AssemblyInfo.cs
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\obj\Debug\netcoreapp2.0\Pruebas.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\Pruebas\obj\Debug\netcoreapp2.0\Pruebas.pdb
