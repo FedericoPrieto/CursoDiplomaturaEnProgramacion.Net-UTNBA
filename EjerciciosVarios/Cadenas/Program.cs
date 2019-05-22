@@ -21,17 +21,31 @@ namespace Cadenas
             string nombre1;
             nombre1=Console.ReadLine();
 
-            if (Console.WriteLine(nombre == nombre1))
+            if (nombre == nombre1)
             {
-
                 Console.WriteLine("Los nombres son iguales");
 
             }
-            Else {
+            else {
 
                 Console.WriteLine("Los nombres son distintos");
 
             }
+
+            //string [] temp= {nombre}; 
+            //Array.Reverse(temp);
+            
+            Console.Write("[ ");
+            for (int i = nombre.Length - 1; i >= 0; i--)
+            {
+                // if (i > 0)
+                // {
+                //     Console.Write(",");
+                // }
+                Console.Write(nombre[i]);
+            }
+            Console.WriteLine("]");
+
 
         }
     }

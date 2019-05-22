@@ -3,7 +3,6 @@ C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Deb
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.0\Cadenas.runtimeconfig.dev.json
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.0\Cadenas.dll
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\bin\Debug\netcoreapp2.0\Cadenas.pdb
-C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.0\Cadenas.csprojAssemblyReference.cache
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.0\Cadenas.csproj.CoreCompileInputs.cache
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.0\Cadenas.AssemblyInfoInputs.cache
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjerciciosVarios\Cadenas\obj\Debug\netcoreapp2.0\Cadenas.AssemblyInfo.cs
