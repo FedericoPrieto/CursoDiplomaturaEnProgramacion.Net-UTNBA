@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\cadenas\\Cadenas.csproj",
+      "projectUniqueName": "c:\\001\\CursoDiplomaturaEnProgramacion.Net-UTNBA\\EjerciciosVarios\\Cadenas\\Cadenas.csproj",
       "projectName": "Cadenas",
-      "projectPath": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\cadenas\\Cadenas.csproj",
+      "projectPath": "c:\\001\\CursoDiplomaturaEnProgramacion.Net-UTNBA\\EjerciciosVarios\\Cadenas\\Cadenas.csproj",
       "packagesPath": "C:\\Users\\FEDERICO\\.nuget\\packages\\",
-      "outputPath": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\cadenas\\obj\\",
+      "outputPath": "c:\\001\\CursoDiplomaturaEnProgramacion.Net-UTNBA\\EjerciciosVarios\\Cadenas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

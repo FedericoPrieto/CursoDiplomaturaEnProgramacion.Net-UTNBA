@@ -38,18 +38,21 @@ namespace CSharpExercises
                         // Expected Output : Hello: Iván Franco
                         Exercise01 pepe = new Exercise01();
                         pepe.Exercise();
-                        //CSharpExercises m = new Exercise01()
-
-
                         break;
+
+            case "02.":
+                        // 02.
+                        // Write a C# Sharp program to print the sum of two numbers.
+                        Exercise02 exercise02 = new Exercise02();
+                        exercise02.cerodospunto();
+                        break;
+
 
             default:
                     System.Console.WriteLine("No existe ejercicio");
 
 
 
-// 02.
-// Write a C# Sharp program to print the sum of two numbers.
 
 // 03.
 // Write a C# Sharp program to print the result of dividing two numbers.

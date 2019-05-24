@@ -35,6 +35,7 @@ namespace Cadenas
             //string [] temp= {nombre}; 
             //Array.Reverse(temp);
             
+            Console.WriteLine("El primer nombre escrito al reves es:");
             Console.Write("[ ");
             for (int i = nombre.Length - 1; i >= 0; i--)
             {

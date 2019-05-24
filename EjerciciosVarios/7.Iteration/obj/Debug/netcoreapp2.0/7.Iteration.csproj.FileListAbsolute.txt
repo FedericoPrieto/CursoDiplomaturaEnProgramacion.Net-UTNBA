@@ -1,0 +1,10 @@
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\bin\Debug\netcoreapp2.0\7.Iteration.deps.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\bin\Debug\netcoreapp2.0\7.Iteration.runtimeconfig.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\bin\Debug\netcoreapp2.0\7.Iteration.runtimeconfig.dev.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\bin\Debug\netcoreapp2.0\7.Iteration.dll
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\bin\Debug\netcoreapp2.0\7.Iteration.pdb
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\obj\Debug\netcoreapp2.0\7.Iteration.csproj.CoreCompileInputs.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\obj\Debug\netcoreapp2.0\7.Iteration.AssemblyInfoInputs.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\obj\Debug\netcoreapp2.0\7.Iteration.AssemblyInfo.cs
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\obj\Debug\netcoreapp2.0\7.Iteration.dll
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\7.iteration\obj\Debug\netcoreapp2.0\7.Iteration.pdb
