@@ -1,6 +1,7 @@
 using System;
 
-namespace CSharpExercises{
+namespace EjerciciosVarios.FirstExercises
+{
     public class ArrayExercises {
         public void Example(){
             int[] myIntArray = new int[5] { 1, 2, 3, 4, 5 };
