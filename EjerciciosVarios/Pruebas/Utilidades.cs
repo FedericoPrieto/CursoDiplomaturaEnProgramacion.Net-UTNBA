@@ -1,6 +1,6 @@
 using System;
 
-namespace Pruebas
+namespace EjerciciosVarios.Pruebas 
 {
     public class Utilidades
     {

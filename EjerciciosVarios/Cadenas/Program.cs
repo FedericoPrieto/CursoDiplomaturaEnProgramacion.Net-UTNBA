@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cadenas
+namespace EjerciciosVarios.Cadenas
 {
     class Program
     {

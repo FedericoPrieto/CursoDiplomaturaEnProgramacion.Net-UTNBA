@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\7.iteration\\7.Iteration.csproj",
+      "projectUniqueName": "c:\\001\\CursoDiplomaturaEnProgramacion.Net-UTNBA\\EjerciciosVarios\\7.Iteration\\7.Iteration.csproj",
       "projectName": "7.Iteration",
-      "projectPath": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\7.iteration\\7.Iteration.csproj",
+      "projectPath": "c:\\001\\CursoDiplomaturaEnProgramacion.Net-UTNBA\\EjerciciosVarios\\7.Iteration\\7.Iteration.csproj",
       "packagesPath": "C:\\Users\\FEDERICO\\.nuget\\packages\\",
-      "outputPath": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\7.iteration\\obj\\",
+      "outputPath": "c:\\001\\CursoDiplomaturaEnProgramacion.Net-UTNBA\\EjerciciosVarios\\7.Iteration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

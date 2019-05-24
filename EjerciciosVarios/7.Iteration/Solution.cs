@@ -1,6 +1,6 @@
 using System;
 
-namespace _7.Iteration
+namespace EjerciciosVarios._7.Iteration
 {
     public class Solution
     {
