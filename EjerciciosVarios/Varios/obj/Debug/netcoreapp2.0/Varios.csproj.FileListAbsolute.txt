@@ -1,0 +1,10 @@
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\obj\Debug\netcoreapp2.0\Varios.csproj.CoreCompileInputs.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\obj\Debug\netcoreapp2.0\Varios.AssemblyInfoInputs.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\obj\Debug\netcoreapp2.0\Varios.AssemblyInfo.cs
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\bin\Debug\netcoreapp2.0\Varios.deps.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\bin\Debug\netcoreapp2.0\Varios.runtimeconfig.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\bin\Debug\netcoreapp2.0\Varios.runtimeconfig.dev.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\bin\Debug\netcoreapp2.0\Varios.dll
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\bin\Debug\netcoreapp2.0\Varios.pdb
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\obj\Debug\netcoreapp2.0\Varios.dll
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\varios\obj\Debug\netcoreapp2.0\Varios.pdb
