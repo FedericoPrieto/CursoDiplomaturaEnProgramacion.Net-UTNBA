@@ -1,0 +1,11 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.csprojAssemblyReference.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.AssemblyInfo.cs
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\bin\Debug\netcoreapp2.0\8.oddocurrencesinarray.deps.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\bin\Debug\netcoreapp2.0\8.oddocurrencesinarray.runtimeconfig.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\bin\Debug\netcoreapp2.0\8.oddocurrencesinarray.runtimeconfig.dev.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\bin\Debug\netcoreapp2.0\8.oddocurrencesinarray.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\bin\Debug\netcoreapp2.0\8.oddocurrencesinarray.pdb
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.pdb

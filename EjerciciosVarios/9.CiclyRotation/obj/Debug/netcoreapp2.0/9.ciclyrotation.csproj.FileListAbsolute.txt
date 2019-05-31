@@ -1,0 +1,11 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\obj\Debug\netcoreapp2.0\9.ciclyrotation.csprojAssemblyReference.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\obj\Debug\netcoreapp2.0\9.ciclyrotation.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\obj\Debug\netcoreapp2.0\9.ciclyrotation.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\obj\Debug\netcoreapp2.0\9.ciclyrotation.AssemblyInfo.cs
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\bin\Debug\netcoreapp2.0\9.ciclyrotation.deps.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\bin\Debug\netcoreapp2.0\9.ciclyrotation.runtimeconfig.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\bin\Debug\netcoreapp2.0\9.ciclyrotation.runtimeconfig.dev.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\bin\Debug\netcoreapp2.0\9.ciclyrotation.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\bin\Debug\netcoreapp2.0\9.ciclyrotation.pdb
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\obj\Debug\netcoreapp2.0\9.ciclyrotation.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\9.ciclyrotation\obj\Debug\netcoreapp2.0\9.ciclyrotation.pdb
