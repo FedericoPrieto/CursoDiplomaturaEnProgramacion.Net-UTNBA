@@ -1,4 +1,5 @@
 ﻿using System;
+using EjerciciosVarios._8.OddOcurrencesInArray;
 
 namespace EjerciciosVarios._8.oddocurrencesinarray
 {
@@ -29,7 +30,7 @@ namespace EjerciciosVarios._8.oddocurrencesinarray
            
             //Console.WriteLine("Hello World!");
             Solution sol = new Solution();
-            int[] a = new int[6];
+            int[] a = new int[7];
             a[0] = 9;
             a[1] = 3;
             a[2] = 9;
@@ -37,7 +38,8 @@ namespace EjerciciosVarios._8.oddocurrencesinarray
             a[4] = 9;
             a[5] = 7;
             a[6] = 9;
-            Console.WriteLine($"Mi número no emparejado es: {sol.Solution(a)} ");
+            Console.WriteLine($"dimension: {a.Length}");
+            Console.WriteLine($"Mi número no emparejado es: {sol.solution(a)} ");
 
 
         }
