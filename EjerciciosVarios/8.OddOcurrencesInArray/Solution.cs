@@ -9,7 +9,7 @@ namespace EjerciciosVarios._8.OddOcurrencesInArray
         int iTemp = 0;
         int iValorAnt = 0; 
         int jAnt = 0; 
-        Console.WriteLine($"Len i: {aTemp.Length}");
+        Console.WriteLine($"Len i: {aTemp.GetLength(0)}");
 
         for (int i = 0; i < aTemp.Length - 1; i++)
         {

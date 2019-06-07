@@ -8,3 +8,4 @@ C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrences
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\bin\Debug\netcoreapp2.0\8.oddocurrencesinarray.pdb
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.dll
 C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.pdb
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\8.oddocurrencesinarray\obj\Debug\netcoreapp2.0\8.oddocurrencesinarray.csprojAssemblyReference.cache

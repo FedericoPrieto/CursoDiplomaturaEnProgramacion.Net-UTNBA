@@ -676,7 +676,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FEDERICO\\.nuget\\packages\\": {},
+    "C:\\Users\\Java\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -685,21 +685,19 @@
       "projectUniqueName": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\8.oddocurrencesinarray\\8.oddocurrencesinarray.csproj",
       "projectName": "8.oddocurrencesinarray",
       "projectPath": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\8.oddocurrencesinarray\\8.oddocurrencesinarray.csproj",
-      "packagesPath": "C:\\Users\\FEDERICO\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Java\\.nuget\\packages\\",
       "outputPath": "C:\\001\\cursodiplomaturaenprogramacion.net-utnba\\ejerciciosvarios\\8.oddocurrencesinarray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\FEDERICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Java\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -717,6 +715,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

@@ -1,0 +1,11 @@
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\obj\Debug\netcoreapp2.2\simulacro.examen.csprojAssemblyReference.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\obj\Debug\netcoreapp2.2\simulacro.examen.csproj.CoreCompileInputs.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\obj\Debug\netcoreapp2.2\simulacro.examen.AssemblyInfoInputs.cache
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\obj\Debug\netcoreapp2.2\simulacro.examen.AssemblyInfo.cs
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\bin\Debug\netcoreapp2.2\simulacro.examen.deps.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\bin\Debug\netcoreapp2.2\simulacro.examen.runtimeconfig.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\bin\Debug\netcoreapp2.2\simulacro.examen.runtimeconfig.dev.json
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\bin\Debug\netcoreapp2.2\simulacro.examen.dll
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\bin\Debug\netcoreapp2.2\simulacro.examen.pdb
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\obj\Debug\netcoreapp2.2\simulacro.examen.dll
+C:\001\cursodiplomaturaenprogramacion.net-utnba\ejerciciosvarios\simulacro.examen\obj\Debug\netcoreapp2.2\simulacro.examen.pdb

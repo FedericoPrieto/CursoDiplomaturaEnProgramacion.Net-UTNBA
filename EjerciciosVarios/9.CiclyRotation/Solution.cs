@@ -4,16 +4,16 @@ namespace EjerciciosVarios._9.CiclyRotation
 {
     public class Solution
     {
-        public int[] solution(int[] a, int cantRot){
+        public int[] solution(int[] a, int k){
             int indiceNuevo = 0 ;
-            int[] b = new int[5];
+            int[] b = new int[a.Length];
 
-           for(int indice1 = 0; indice1 <  a.Length; indice1++){
-               indiceNuevo = indice1 + cantRot;
+           for(int i = 0; i <  a.Length; i++){
+               indiceNuevo = i + k;
                if (indiceNuevo > a.Length - 1){
-                   indiceNuevo = indiceNuevo - a.Length ;  
+                   indiceNuevo = indiceNuevo %  a.Length  ;  
                }               
-               b[indice1] = a[indiceNuevo]; 
+               b[i] = a[indiceNuevo]; 
             }
             return b; 
 

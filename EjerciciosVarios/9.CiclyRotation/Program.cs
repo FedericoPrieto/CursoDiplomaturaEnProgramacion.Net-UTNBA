@@ -31,7 +31,7 @@ namespace EjerciciosVarios._9.CiclyRotation
             a[2] = 9;
             a[3] = 7;
             a[4] = 6;
-            int cRotacion=1;
+            int cRotacion=600;
             int[] Rotado = sol.solution(a,cRotacion);
             
             for(int indice1 = 0; indice1 <  Rotado.Length; indice1++){
