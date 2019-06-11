@@ -1,0 +1,10 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\segunivan\SimulacroExamen\obj\Debug\netcoreapp2.0\SimulacroExamen.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\segunivan\SimulacroExamen\obj\Debug\netcoreapp2.0\SimulacroExamen.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\segunivan\SimulacroExamen\obj\Debug\netcoreapp2.0\SimulacroExamen.AssemblyInfo.cs
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\bin\Debug\netcoreapp2.0\SimulacroExamen.deps.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\bin\Debug\netcoreapp2.0\SimulacroExamen.runtimeconfig.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\bin\Debug\netcoreapp2.0\SimulacroExamen.runtimeconfig.dev.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\bin\Debug\netcoreapp2.0\SimulacroExamen.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\bin\Debug\netcoreapp2.0\SimulacroExamen.pdb
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\obj\Debug\netcoreapp2.0\SimulacroExamen.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\SegunIvan\SimulacroExamen\obj\Debug\netcoreapp2.0\SimulacroExamen.pdb
