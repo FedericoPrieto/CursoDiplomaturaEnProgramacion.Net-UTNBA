@@ -1,0 +1,4 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.2\EjHouse.csprojAssemblyReference.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.2\EjHouse.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.2\EjHouse.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.2\EjHouse.AssemblyInfo.cs
