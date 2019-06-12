@@ -1,0 +1,10 @@
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.0\EjHouse.csproj.CoreCompileInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.0\EjHouse.AssemblyInfoInputs.cache
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.0\EjHouse.AssemblyInfo.cs
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\bin\Debug\netcoreapp2.0\EjHouse.deps.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\bin\Debug\netcoreapp2.0\EjHouse.runtimeconfig.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\bin\Debug\netcoreapp2.0\EjHouse.runtimeconfig.dev.json
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\bin\Debug\netcoreapp2.0\EjHouse.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\bin\Debug\netcoreapp2.0\EjHouse.pdb
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.0\EjHouse.dll
+C:\001\CursoDiplomaturaEnProgramacion.Net-UTNBA\EjHouse\obj\Debug\netcoreapp2.0\EjHouse.pdb

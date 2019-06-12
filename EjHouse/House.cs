@@ -5,15 +5,15 @@ namespace EjHouse
     public class House
     {
         double Area{get; set;}
+        public Door MyDoor{get;}
 
-        public Door MyDoor{get; set;}
-
-        public House(double area)
+        public House(double area, string colorPuerta)
         {
             Area = area;
+            MyDoor = new Door(colorPuerta);
         }
 
-        void ShowData()
+        public void ShowData()
         {
             Console.WriteLine($"Soy una Casa mi área es de {Area} m2");
         }

@@ -2,9 +2,11 @@ using System;
 
 namespace EjHouse
 {
-    public class SmallApartment
+    public class SmallApartment:House
     {
-        public SmallApartment():base(50)
+
+        public SmallApartment()
+        :base(50, "Marrón")
         {
 
         }

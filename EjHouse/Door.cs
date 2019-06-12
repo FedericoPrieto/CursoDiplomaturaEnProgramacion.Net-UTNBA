@@ -4,15 +4,15 @@ namespace EjHouse
 {
     public class Door
     {
-        string Color {get; set;}        
+        public string Color {get; set;}        
 
         public Door(string color)
         {
             Color = color;
         }
-        void ShowData()
+        public void ShowData()
         {
-            Console.WriteLine($"Soy una Puerta, mi color es {color}");
+            Console.WriteLine($"Soy una Puerta, mi color es {Color}");
         }
 
     }
