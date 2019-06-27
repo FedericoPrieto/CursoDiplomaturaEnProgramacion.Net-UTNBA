@@ -1,0 +1,10 @@
+C:\001\introcsharp\OOP-Interfaces\bin\Debug\netcoreapp2.0\Interfaces.deps.json
+C:\001\introcsharp\OOP-Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.json
+C:\001\introcsharp\OOP-Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.dev.json
+C:\001\introcsharp\OOP-Interfaces\bin\Debug\netcoreapp2.0\Interfaces.dll
+C:\001\introcsharp\OOP-Interfaces\bin\Debug\netcoreapp2.0\Interfaces.pdb
+C:\001\introcsharp\OOP-Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\001\introcsharp\OOP-Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfoInputs.cache
+C:\001\introcsharp\OOP-Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfo.cs
+C:\001\introcsharp\OOP-Interfaces\obj\Debug\netcoreapp2.0\Interfaces.dll
+C:\001\introcsharp\OOP-Interfaces\obj\Debug\netcoreapp2.0\Interfaces.pdb
